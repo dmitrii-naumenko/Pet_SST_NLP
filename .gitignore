@@ -120,3 +120,4 @@ ENV/
 /wiki
 /models
 .dvc/config
+/secrets
