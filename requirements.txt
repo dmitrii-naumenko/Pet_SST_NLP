@@ -7,3 +7,4 @@ pydub==0.25.1
 ffprobe==0.5
 ffmpeg==1.4
 nltk==3.8.1
+vosk==0.3.44
